@@ -1,2 +1,2 @@
 # Visitare-Nicotera
-Sito turistico per la conoscenza di Nicotera
+Sito turistico per la conoscenza del paese di Nicotera
