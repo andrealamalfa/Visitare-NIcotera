@@ -44,10 +44,6 @@ h2 {
   font-weight: bold;
 }
 
-#bottone {
-  margin: 0px !important;
-}
-
 a:hover {
   text-decoration: none;
   color: grey;
