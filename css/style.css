@@ -49,6 +49,12 @@ a:hover {
   color: grey;
 }
 
+#mappa{
+  width: 80%;
+  text-align: middle;
+  display: block;
+}
+
 @media screen and (max-width: 500px) {
   h1 {
     font-size: 29px;
