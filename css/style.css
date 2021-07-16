@@ -44,6 +44,10 @@ h2 {
   font-weight: bold;
 }
 
+p {
+  font-size: 17px;
+}
+
 a:hover {
   text-decoration: none;
   color: grey;
