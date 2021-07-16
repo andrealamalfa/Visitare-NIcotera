@@ -50,9 +50,8 @@ a:hover {
 }
 
 #mappa{
-  width: 80%;
-  text-align: middle;
-  display: block;
+  width: 90%;
+padding-left: 5%;
 }
 
 @media screen and (max-width: 500px) {
