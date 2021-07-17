@@ -31,7 +31,7 @@ body, html {
   padding-top: 66px;
 }
 
-#video2 {
+#maps {
   display: block;
 }
 
@@ -55,7 +55,7 @@ a:hover {
 
 #mappa{
   width: 90%;
-padding-left: 5%;
+  padding-left: 5%;
 }
 
 @media screen and (max-width: 500px) {
