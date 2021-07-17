@@ -35,6 +35,9 @@ body, html {
   display: block;
 }
 
+#storia, #fotogallery{
+  text-align: center;
+}
 h1 {
   font-size: 35px;
   margin: 0px !important;
