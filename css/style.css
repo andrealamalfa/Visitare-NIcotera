@@ -54,10 +54,14 @@ a:hover {
   padding-left: 5%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   h1 {
-    font-size: 29px;
-    padding-left: 0px !important;
+    font-size: 24px;
+    padding-left: 50px !important;
+  }
+
+  p {
+  font-size: 16px;
   }
 
   center iframe {
@@ -65,11 +69,53 @@ a:hover {
     height: 315px;
   }
 
+  header img {
+    height: 40px;
+  }
+
+
   #fotogallery img {
     padding: 10px;
   }
 
   #cosavedere {
    text-align: center;
+  }
+}
+
+@media screen and (max-width: 800px){
+
+  h1 {
+    font-size: 27px;
+  }
+
+  header img {
+    height: 30px;
+  }
+
+header section a{
+  font-size: 12px;
+  padding: 15px !important;
+  }
+
+  #video1 {
+    padding-top: 52px !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  h1 {
+    font-size: 22px;
+    padding-left: 15px !important;
+  }
+
+  center iframe {
+    width: 250px;
+    height: 300px;
+  }
+
+  header img {
+    height: 30px;
   }
 }
